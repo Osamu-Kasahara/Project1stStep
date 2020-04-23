@@ -1,1 +1,1 @@
-echo "# Project1stStep"
+# Project1stStep
